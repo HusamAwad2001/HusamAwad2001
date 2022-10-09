@@ -7,7 +7,7 @@
 </p>
 <!--  <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me -->
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-Hello Everyone 👋, My name is Husam Awad. I'm a Software Engineering 👨‍
+Hello Everyone 👋, My name is Husam Dahliz. I'm a Software Engineering 👨‍
 I’m interested in Dart/Flutter. Presently, I'm developing Softwares & apps with Flutter.
 You can follow me on the socials, below 👇.
 	  
